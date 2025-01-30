@@ -1,4 +1,4 @@
-namespace GenericRepositoryPatternWebAPI
+namespace GenericRepositoryPatternWebAPI.Models
 {
     public class WeatherForecast
     {
