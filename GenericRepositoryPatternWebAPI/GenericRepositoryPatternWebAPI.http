@@ -1,0 +1,10 @@
+@GenericRepositoryPatternWebAPI_HostAddress = http://localhost:5117
+
+### registering weatherforecast
+GET {{GenericRepositoryPatternWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+### registering person
+GET {{GenericRepositoryPatternWebAPI_HostAddress}}/person/
+Accept: application/json
+
